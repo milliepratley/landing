@@ -1,0 +1,13 @@
+.banner {
+  color: white;
+  padding: 170px 40px;
+  background-size: cover;
+}
+
+.banner p {
+  margin-bottom: 30px;
+}
+
+/* .banner h1 {
+  margin: 8px 0;
+} */

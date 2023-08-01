@@ -1,0 +1,16 @@
+.footer li a {
+  color: white;
+  /* display: inline;
+  margin: 0 5px; */
+}
+
+ul {
+  background-color: rgb(201, 94, 55);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer li {
+  display: inline;
+  margin: 0 5px;
+}
